@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @davis-sang
-- 👀 I’m interested in Cloud architecture and Network automation
+- 👀 Network Development engineer - All things network automation. 🦾🦾🦾.
 - 🌱 Always learning and tinkering 🛠️🛠️
