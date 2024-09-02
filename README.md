@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @davis-sang
-- 👀 Network Development engineer - All things network automation. 🦾🦾🦾.
+- 👀 Network Development engineer: All things network automation. 🦾🦾🦾.
 - 🌱 Always learning and tinkering 🛠️🛠️
